@@ -1,0 +1,17 @@
+//before OOPS, 
+
+//(1) we were using procedural programming => a list of instruction in a single block
+//limitation of this procedural programming => only good for small programs
+
+//(2) then came in picture modular programming approach => our code is divided into function and each function has a specific prupose.
+//Limitation => modular approach does not help us to access things in the outer world, data remains local to the function we needed something to make it global with permission
+
+//(3) in local scope, data remains alive within the scope and dies in the scope itself can't be accessed outside, but in global scope it can be accessed from anywhere, but for everything in global
+//it has it's own difficulties as it is hard to manage.
+
+
+//=> in object oriented approach we bind our data and function together, we create a class, variables are member variables, and function become member functions
+//this processing of binding them together is known as encapsulation
+
+
+
