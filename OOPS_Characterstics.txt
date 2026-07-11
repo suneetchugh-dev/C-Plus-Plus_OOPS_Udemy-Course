@@ -1,0 +1,16 @@
+//6 Characteristics of OOPS
+
+Class => is a blueprint of our objects, using which we can create a object, consider it a user defined data type basically holding it's own data members and data member function
+//we can create multiple copies or we can say multiple objects from same class;
+
+Object => Instance of the class means the object is created from the class and it will have it's own copy of data members and data member functions
+
+Encapsulation => is a concept of wrapping up of data members and data member functions in a single unit called class, it is also called as data hiding, it is achieved by using access specifiers like private, public and protected
+
+Abstraction => is a concept of hiding the complexity and showing only the essential features to the user, it is achieved by using abstract class and interface
+
+Inheritance => is a concept of reusing the code and creating a relationship between two classes, it is achieved by using extends keyword
+
+Polymorphism => is a concept of having multiple forms, it is achieved by using method overloading and method overriding 
+
+
