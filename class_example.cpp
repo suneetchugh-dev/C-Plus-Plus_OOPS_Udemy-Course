@@ -38,3 +38,10 @@ int main()
 
 //for member variable i can't write private because it will not be accessible outside the class so we have to use public access specifier to access it outside the class. //this will help us to hide our data
 //for memeber function to update them i can write public because it will be accessible outside the class so we have to use public access specifier to access it outside the class.
+
+
+
+// here is some info about access specifier in c++
+// 1. public: members are accessible from outside the class
+// 2. private: members are not accessible from outside the class
+// 3. protected: members are not accessible from outside the class but they are accessible from the derived class
