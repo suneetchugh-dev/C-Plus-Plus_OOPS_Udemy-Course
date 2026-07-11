@@ -27,7 +27,8 @@ private: //this is us specifying the access modifier so that our data can be acc
 //public accesss specifier once defined we can access members of it.
 int main()
 {
-    house h1; //to intialise a object => we give classname followed by object name => class_name object_name;
+    house h1; //to intialise a object => we give classname followed by object name => class_name object_name; //we can also do something like house h1,h2,h3; //this is how we can create multiple objects of a class
+    //in multiple objects created from space object sperate variable of a object will get seperate memory allocation and will not be shared with other objects of the same class
     h1.setData(500,600); //this is how you call method of a class  => object_name.method_name(param1, param2, ...)
     h1.area();
     return 0;
