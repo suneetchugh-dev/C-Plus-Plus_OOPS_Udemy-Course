@@ -1,0 +1,6 @@
+//ATM Functionality=>
+
+Check Balance
+Cash Withdraw
+User Details
+Update Mobile Number
